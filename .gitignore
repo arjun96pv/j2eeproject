@@ -1,0 +1,6 @@
+target/*
+ear/target/*
+ejbs/target/*
+projects/target/*
+servlets/target/*
+
